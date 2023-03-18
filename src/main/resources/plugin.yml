@@ -1,0 +1,6 @@
+name: NoMiningOrCrafting
+version: '${project.version}'
+main: adhdmc.nominingorcrafting.NoMiningOrCrafting
+api-version: 1.16
+author: Rhythmic
+description: Remove mining and crafting from minecraft
