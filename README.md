@@ -1,5 +1,7 @@
 # No More Mining or Crafting
 
+## Releases on [Modrinth](https://modrinth.com/plugin/no-mining-or-crafting)
+
 Welcome to the most useless Minecraft plugin in existence!
 
 This plugin is designed to bring a whole new level of frustration to your Minecraft experience by completely disabling mining and crafting. You read that right, you can't craft anything and all your mining efforts will be in vain.
